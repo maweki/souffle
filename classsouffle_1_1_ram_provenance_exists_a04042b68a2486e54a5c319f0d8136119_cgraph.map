@@ -1,0 +1,6 @@
+<map id="souffle::RamProvenanceExists::equal" name="souffle::RamProvenanceExists::equal">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a961b0d79be71a35f0b60aeedf212fe4a" title="A function testing whether two vector of pointers are referencing to equivalent targets. " alt="" coords="285,5,432,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation_reference.html#aba4241170a1ec60793af1fe68b7fb657" title="Get relation. " alt="" coords="256,57,461,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ram_provenance_exists.html#aaefc52ef972153cf53843e28b31ff84f" title="Get relation. " alt="" coords="257,122,460,163"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab0083e5ad86e88ff726ea4e3c7ef23c1" title="A function testing whether two vectors are equal (same vector of elements). " alt="" coords="510,5,610,32"/>
+</map>

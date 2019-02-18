@@ -1,0 +1,9 @@
+<map id="souffle::ConvertExistenceChecksTransformer::convertExistenceChecks" name="souffle::ConvertExistenceChecksTransformer::convertExistenceChecks">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ram_node.html#a8b93371163c782cbebc1ca966e8ff063" title="Apply the mapper to all child nodes. " alt="" coords="302,5,469,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_program.html#a700bc589281fd3f2478b074c3134d450" title="Get main program. " alt="" coords="312,57,459,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="326,123,445,149"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a3194e440e935d0d6089f8fa6bf405086" title="A function packing a tuple of the given arity into a reference. " alt="" coords="337,173,434,200"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a4e134334ce89f6ebc4075e1089b1f80d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="308,224,463,251"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ae3213abfc9e18e34bb08056ec91f7b86" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="517,217,672,258"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="720,217,896,258"/>
+</map>
